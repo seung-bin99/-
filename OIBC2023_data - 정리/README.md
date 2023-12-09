@@ -14,3 +14,9 @@ H ENERGY, POSTECH 오픈 이노베이션 빅데이터 센터, 포스텍 미래�
 - 11월 15일 입찰 : 가을 데이터 기준으로 xgboost + random forest 소프트 보팅 앙상블 모델로 학습후 예측
 - 강수량 고려한 가을변수 생성
 - 11월 16일 입찰 : 강수량 기상을 고려해 강수량이 있는 9~12월 시간대별 Linear Regression 모델로 학습 후 예측
+
+# 발전량 입찰 그래프
+![image](https://github.com/seung-bin99/project/assets/153293674/4bc86eb4-e7a6-497d-b63a-25df706455ec)
+
+# 순위
+![image](https://github.com/seung-bin99/project/assets/153293674/cf9f8a8d-37db-4868-b8ca-f5ca42a5b01a)
