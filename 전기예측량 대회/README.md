@@ -17,3 +17,6 @@
 - 건물번호 별 xgboost 모델 생성
 - autogluon으로 모델 생성
 - xgboost + autogluon 앙상블 후 제출
+
+# 결과
+![image](https://github.com/seung-bin99/project/assets/153293674/86ada782-db85-42bc-a1cb-efb2027aee85)
