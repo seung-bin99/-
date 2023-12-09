@@ -1,0 +1,14 @@
+시드 random : 31
+mlp : 99
+
+나중에한건 33
+
+
+
+ensemble5= automl(시드 99) + 토치28(시드 33)
+ensemble4= automl(시드 99) + 토치28(시드 33) + 랜덤(시드31)
+ensemble3= automl(시드 99) + 토치24(시드33)
+
+eusemble2= automl(시드 99)+ 토치 24(시드33)+랜덤(시드 31)
+
+ensemble = automl(시드 99)+ 토치 11(시드 99)
