@@ -8,9 +8,9 @@
 # 목적
 - 시공간 정보로부터 사고위험도(ECLO) 예측 AI 모델 개발
 
-# process
+# Process
 - 도시, 구, 동에 따라 각 데이터 결합
-- IterativeImputer 사용한 결측치 처리
+- MICE 이용한 자동대치 IterativeImputer로 결측치 대체
 - Target Encoding
 - RMSLE 평가식 정의
 - Kfold, random split 로 train data 분리
