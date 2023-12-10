@@ -16,5 +16,8 @@ DACON
 - Logistic regression, SVC, Decision Tree, Random Forest, Naive Bayes, Xgb 등 활용해 성능 좋은 모델 확인
 - Random Forest, Naive Bayes, Xgb로 소프트보팅 앙상블 방법으로 모델 설계후 예측
 
+# 기여도
+- 본 대회는 모든 작업을 혼자서 수행
+  
 # 결과
 ![image](https://github.com/seung-bin99/project/assets/153293674/87974f98-904b-4557-8cf4-6e86dc6075e9)
