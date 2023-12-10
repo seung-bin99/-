@@ -16,6 +16,9 @@ DACON, 한국화학연구원, 한국생명공학연구원, 한국제약바이오
 - autogluon을 사용하여 종속 변수를 HLM 및 MLM으로 설정
 - 평가 식을 RMSE로 설정하여 제한 시간을 6시간으로 정해두고 학습
 - 훈련된 앙상블 모델로 HLM 및 MLM 예측
-  
+
+# 기여도
+- 본 대회는 모든 작업을 혼자서 수행
+    
 # 결과
 ![image](https://github.com/seung-bin99/project/assets/153293674/5dc152a5-008b-4e6f-9ce1-e8ba8a4ae265)
