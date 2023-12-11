@@ -9,7 +9,7 @@
 - 항만 내 선박의 대기시간을 예측하는 AI 알고리즘 개발
   
 # Process
-- MICE 이용한 자동대치 IterativeImputer로 결측치 대체
+- 다중대치(MICE)로 결측치 대체
 - 변수 생성
 - custom IQR로 이상치 처리
 - target 변수 'CI_HOUR' 로그변환
