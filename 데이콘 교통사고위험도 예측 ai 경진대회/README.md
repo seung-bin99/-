@@ -10,7 +10,7 @@
 
 # Process
 - 도시, 구, 동에 따라 각 데이터 결합
-- MICE 이용한 자동대치 IterativeImputer로 결측치 대체
+- 다중대치(MICE)로 결측치 대체
 - Target Encoding
 - RMSLE 평가식 정의
 - Kfold, random split 로 train data 분리
