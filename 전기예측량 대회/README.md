@@ -10,7 +10,7 @@
 
 # Process
 - 파생변수 생성
-- EDA (시계열, 건물, 군집)
+- EDA 및 시각화(시계열, 건물, 군집)
 - SMAPE(Symmetric Mean Absolute Percentage Error)
 - Nested cross validation으로 하이파라미터 탐색
 - gradien boost , xgboost, ...
