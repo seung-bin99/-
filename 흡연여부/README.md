@@ -9,7 +9,7 @@ DACON
 흡연 여부를 분류하는 AI 알고리즘 개발
 
 # Process
-- EDA
+- EDA 및 시각화
 - Isolation Forest 사용한 이상치 처리
 - 변수 생성
 - 분석 후, 불필요한 변수 제거
