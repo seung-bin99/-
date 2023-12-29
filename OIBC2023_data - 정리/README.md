@@ -17,7 +17,7 @@ H ENERGY, POSTECH 오픈 이노베이션 빅데이터 센터, 포스텍 미래�
 
 # 기여도
 - 2명(이도건, 허승빈)
-- 허승빈 : 데이터 전처리 및 14 ~ 15일 모델 설계(random forest, xgboost, voting regressor)
+- 허승빈 : 데이터 전처리 , 14 ~ 15일 모델 설계(random forest, xgboost, voting regressor) 및 api 제출
 - 이도건 : EDA 및 13 ~14일 가중치 적용 구현, 17일 LinearRegression 활용 모델 설계
   
 # 발전량 입찰 그래프
