@@ -23,3 +23,6 @@
 
 # 결과
 ![image](https://github.com/seung-bin99/project/assets/153293674/86ada782-db85-42bc-a1cb-efb2027aee85)
+
+# 후기
+- EDA를 통해 얻은 인사이트를 전처리 와 모델 설계로의 연결이 매끄럽지 못했는데 이러한 연습이 필요함
