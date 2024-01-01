@@ -22,7 +22,7 @@
 - 본 대회는 모든 작업을 혼자서 수행
 
 # 후기
-* 데이터에 대한 구체적인 이해가 이루어지지 않아서 feature engineering을 제대로 하지 못했다. 
+- 데이터에 대한 구체적인 조사 후 진행했으면 feature engineering을 통해 더 좋은 결과를 낼 수 있었을 것이라 생각함
   
 # 결과
 ![image](https://github.com/seung-bin99/project/assets/153293674/3fcedb1f-ad42-42c3-bf84-956209af5bcc)
