@@ -8,6 +8,9 @@
 # 설명
 - 사고 발생 시간, 공간 등의 정보를 활용하여 사고위험도(ECLO)를 예측하는 AI 모델 개발
 
+# 기여도
+- 본 대회는 모든 작업을 혼자서 수행
+
 # Process
 - 도시, 구, 동에 따라 각 데이터 결합
 - 다중대치(MICE)로 결측치 대체
@@ -17,9 +20,6 @@
 - MLP, transformer 모델 설계후 optuna를 사용해 최적하이파라미터 탐색후 학습후 예측
 - automl통한 모델 학습후 예측
 - MLP + automl 결과 앙상블 후 제출
-
-# 기여도
-- 본 대회는 모든 작업을 혼자서 수행
   
 # 결과
 ![image](https://github.com/seung-bin99/project/assets/153293674/3fcedb1f-ad42-42c3-bf84-956209af5bcc)
