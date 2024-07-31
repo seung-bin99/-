@@ -24,7 +24,7 @@
 - 등급에 따라 총 매출 분포 파악 
 
 # 결과
-[KPI 도출 비즈니스 전략 아이디어 경진대회 수상.pdf](https://github.com/user-attachments/files/16434934/KPI.pdf)
+![KPI 도출 비즈니스 전략 아이디어 경진대회 수상](https://github.com/user-attachments/assets/386a65d7-e771-4572-8777-5b82916b7cc4)
 
 # 후기
 - 지도 시각화에 대한 더 숙련된 기술이 있었으면 하는 아쉬움이 있음
