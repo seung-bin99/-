@@ -21,6 +21,10 @@
 - 변수 중요도 사용해 voting model(xgb + cat + ets)로 예측
 - optuna를 사용한 weekday 별 모델 파라미터 탐색 후 예측
 - optuna를 사용한 항구 별 모델 파라미터 탐색 후 예측
-  
+
+# 결과
+- 100th / 330team
+![image](https://github.com/user-attachments/assets/004c98fc-ac11-4624-9441-d3617bc80478)
+
 # 기대 효과
 - 선박의 접안 시간 예측 가능으로, 선박 대기시간을 줄여 연료 절감 및 온실가스 감축 효과 기대
