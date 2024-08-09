@@ -1,0 +1,610 @@
+2023-10-20 17:50:09,996:WARNING:C:\Users\user\anaconda3\lib\site-packages\sklearn\base.py:441: UserWarning: X does not have valid feature names, but IsolationForest was fitted with feature names
+  warnings.warn(
+
+2023-10-20 17:50:26,108:WARNING:C:\Users\user\anaconda3\lib\site-packages\sklearn\base.py:441: UserWarning: X does not have valid feature names, but IsolationForest was fitted with feature names
+  warnings.warn(
+
+2023-10-20 17:54:26,717:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,718:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,718:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,718:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,718:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,718:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,718:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,719:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,719:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,719:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,719:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,719:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:26,815:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,815:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,815:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,815:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,815:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,815:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,833:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,833:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,834:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,834:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,834:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:26,834:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,247:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,247:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,247:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,247:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,248:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,248:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,248:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,248:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,248:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,248:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,248:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,248:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:54:44,317:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,318:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,318:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,318:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,318:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,318:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,340:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,340:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,340:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,340:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,341:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:54:44,341:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,385:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,385:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,385:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,385:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,396:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,396:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,396:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,396:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,397:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,397:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,397:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,397:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 17:55:02,453:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,454:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,454:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,454:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,454:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,454:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,474:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,475:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,475:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,475:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,475:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 17:55:02,475:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,825:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,826:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,826:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,826:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,827:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,827:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,827:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,827:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,827:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,827:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,827:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,828:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:53:50,897:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,897:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,897:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,897:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,897:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,897:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,933:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,934:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,934:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,934:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,934:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:53:50,934:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,242:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,243:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,243:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,243:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,243:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,243:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,243:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,243:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,243:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,244:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,244:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,244:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:08,308:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,308:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,308:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,308:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,308:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,308:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,329:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,330:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,330:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,330:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,330:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:08,330:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,117:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,117:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,117:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,117:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,117:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,118:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,118:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,118:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,118:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,118:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,118:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,118:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:238: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+
+2023-10-20 18:54:27,177:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53364 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,177:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,177:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,177:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 53552 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,177:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44060 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,177:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 49688 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,195:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 48320 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,195:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 50640 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,195:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 45824 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,195:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 54620 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,195:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 44208 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:54:27,195:WARNING:C:\Users\user\anaconda3\lib\site-packages\matplotlib\backends\backend_agg.py:201: RuntimeWarning: Glyph 51221 missing from current font.
+  font.set_text(s, 0, flags=flags)
+
+2023-10-20 18:58:01,651:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 18:58:04,560:WARNING:<ipython-input-484-672c4f1ab801>:29: RuntimeWarning: overflow encountered in expm1
+  predictions = np.expm1(predictions)  # 지수 변환 역으로 해줌
+
+2023-10-20 18:58:04,562:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\pandas\core\arraylike.py:396: RuntimeWarning: overflow encountered in expm1
+
+2023-10-20 19:07:02,819:WARNING:C:\Users\user\anaconda3\lib\site-packages\sklearn\base.py:441: UserWarning: X does not have valid feature names, but IsolationForest was fitted with feature names
+  warnings.warn(
+
+2023-10-20 19:07:21,985:WARNING:C:\Users\user\anaconda3\lib\site-packages\sklearn\base.py:441: UserWarning: X does not have valid feature names, but IsolationForest was fitted with feature names
+  warnings.warn(
+
+2023-10-20 19:07:54,587:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 19:07:57,451:WARNING:<ipython-input-490-672c4f1ab801>:29: RuntimeWarning: overflow encountered in expm1
+  predictions = np.expm1(predictions)  # 지수 변환 역으로 해줌
+
+2023-10-20 19:07:57,453:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\pandas\core\arraylike.py:396: RuntimeWarning: overflow encountered in expm1
+
+2023-10-20 19:10:31,704:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 19:10:36,299:WARNING:<ipython-input-533-672c4f1ab801>:29: RuntimeWarning: overflow encountered in expm1
+  predictions = np.expm1(predictions)  # 지수 변환 역으로 해줌
+
+2023-10-20 19:10:36,301:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\pandas\core\arraylike.py:396: RuntimeWarning: overflow encountered in expm1
+
+2023-10-20 19:45:14,018:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\pandas\core\arraylike.py:396: RuntimeWarning: overflow encountered in expm1
+
+2023-10-20 19:45:14,034:WARNING:<ipython-input-576-b9c9af7c841b>:35: RuntimeWarning: overflow encountered in expm1
+  pred_exp = np.expm1(predictions)
+
+2023-10-20 20:59:45,876:WARNING:C:\Users\user\anaconda3\lib\site-packages\sklearn\base.py:441: UserWarning: X does not have valid feature names, but IsolationForest was fitted with feature names
+  warnings.warn(
+
+2023-10-20 21:00:09,660:WARNING:C:\Users\user\anaconda3\lib\site-packages\sklearn\base.py:441: UserWarning: X does not have valid feature names, but IsolationForest was fitted with feature names
+  warnings.warn(
+
+2023-10-20 21:04:41,352:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 21:04:44,412:WARNING:<ipython-input-615-672c4f1ab801>:29: RuntimeWarning: overflow encountered in expm1
+  predictions = np.expm1(predictions)  # 지수 변환 역으로 해줌
+
+2023-10-20 21:04:44,415:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\pandas\core\arraylike.py:396: RuntimeWarning: overflow encountered in expm1
+
+2023-10-20 21:26:31,169:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 22:04:34,527:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 22:07:24,994:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 22:07:44,149:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 22:09:29,491:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 22:13:33,269:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 23:01:53,453:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 23:07:33,449:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 23:07:41,314:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 23:09:25,899:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-20 23:29:58,556:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\optuna\distributions.py:700: UserWarning: The distribution is specified by [300, 4000] and step=40, but the range is not divisible by `step`. It will be replaced by [300, 3980].
+  warnings.warn(
+
+2023-10-21 00:11:49,546:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\optuna\distributions.py:700: UserWarning: The distribution is specified by [300, 4000] and step=40, but the range is not divisible by `step`. It will be replaced by [300, 3980].
+  warnings.warn(
+
+2023-10-21 00:25:04,355:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\optuna\distributions.py:700: UserWarning: The distribution is specified by [300, 4000] and step=40, but the range is not divisible by `step`. It will be replaced by [300, 3980].
+  warnings.warn(
+
+2023-10-21 00:48:35,482:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\optuna\distributions.py:700: UserWarning: The distribution is specified by [300, 4000] and step=40, but the range is not divisible by `step`. It will be replaced by [300, 3980].
+  warnings.warn(
+
+2023-10-21 01:13:19,013:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\optuna\distributions.py:700: UserWarning: The distribution is specified by [300, 4000] and step=40, but the range is not divisible by `step`. It will be replaced by [300, 3980].
+  warnings.warn(
+
+2023-10-21 01:49:56,164:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\optuna\distributions.py:700: UserWarning: The distribution is specified by [300, 4000] and step=40, but the range is not divisible by `step`. It will be replaced by [300, 3980].
+  warnings.warn(
+
+2023-10-21 02:04:19,133:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\optuna\distributions.py:700: UserWarning: The distribution is specified by [300, 4000] and step=40, but the range is not divisible by `step`. It will be replaced by [300, 3980].
+  warnings.warn(
+
+2023-10-21 02:31:19,452:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:31:36,498:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:31:50,371:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:32:03,708:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:33:24,074:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:33:52,554:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:34:06,447:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:34:19,738:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:37:56,673:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:38:06,602:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:38:17,333:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:38:24,580:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:40:08,264:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:40:17,210:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:40:32,197:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:40:38,836:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:40:44,338:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:40:53,524:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:41:44,643:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:42:12,950:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 02:45:59,187:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 03:19:52,371:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `eval_metric` in `fit` method is deprecated for better compatibility with scikit-learn, use `eval_metric` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 04:11:11,677:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-10-21 04:16:24,930:WARNING:C:\Users\user\AppData\Roaming\Python\Python38\site-packages\xgboost\sklearn.py:885: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
