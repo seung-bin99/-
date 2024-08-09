@@ -25,6 +25,3 @@ H ENERGY, POSTECH 오픈 이노베이션 빅데이터 센터, 포스텍 미래�
 
 # 순위
 ![image](https://github.com/seung-bin99/project/assets/153293674/cf9f8a8d-37db-4868-b8ca-f5ca42a5b01a)
-
-# 후기
-- 주최측의 니즈를 늦게 파악해 모델 개발에 대한 더 빠른 판단력과 시도가 있었으면 더 좋은 성과를 낼 수 있었음을 통해 문제에 대한 빠른 이해가 필요함을 깨달음
