@@ -22,5 +22,6 @@
 - MLP + automl 결과 앙상블 후 제출
   
 # 결과
+- 28th / 942team
 ![image](https://github.com/user-attachments/assets/dfa4d138-8609-4e11-9e2f-05aaf1f59501)
 
