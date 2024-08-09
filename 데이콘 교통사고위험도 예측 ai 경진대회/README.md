@@ -22,4 +22,5 @@
 - MLP + automl 결과 앙상블 후 제출
   
 # 결과
-![image](https://github.com/seung-bin99/project/assets/153293674/3fcedb1f-ad42-42c3-bf84-956209af5bcc)
+![image](https://github.com/user-attachments/assets/dfa4d138-8609-4e11-9e2f-05aaf1f59501)
+
