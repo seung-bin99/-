@@ -22,7 +22,7 @@
 - 전 제안서 작성(Figma 기반 앱 예상 화면, AI 적용 서비스 발전 가능성 등)
 
 ### DB 구축 화면
-![DB 구축 화면](https://prod-files-secure.s3.us-west-2.amazonaws.com/c8fd4f71-321d-4943-80d8-ee25719b1a3f/751bc27e-e91f-40ee-8145-120717ccff6d/Untitled.png)
+![DB 구축](https://github.com/user-attachments/assets/8e36a1b2-647c-4390-8b76-1586abe6744f)
 
 ### 반려동물 동반 시설 정보 지도
 ![반려동물 동반 가능 여부 시설정보 지도](https://github.com/user-attachments/assets/27137842-0170-453d-a738-dc1cea58e034)
@@ -32,7 +32,7 @@
 
 
 # 결과
-![우수상 수상.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/c8fd4f71-321d-4943-80d8-ee25719b1a3f/5f38631b-de4e-43bb-9c84-7720e6244adb/%EC%9A%B0%EC%88%98%EC%83%81_%EC%88%98%EC%83%81.jpg)
+![우수상](https://github.com/user-attachments/assets/af70ceb7-0f88-40bd-aa14-d7f4d29bfa24)
 - 예선 심사 : 온라인 플랫폼 내 투표 시스템 활용한 점수 산정 및 선발
 - 발표 평가 : 아이디어 실현 가능성, 사업화 우수성 등에 대한 PT발표로 **부문별 5개팀 최종 선정**
  →  26 팀 중 예선 5위,  최종 우수상
