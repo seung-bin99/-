@@ -16,9 +16,9 @@
 - 다중대치(MICE)로 결측치 대체
 - Target Encoding
 - RMSLE 평가식 정의
-- Kfold, random split 로 train data 분리
-- MLP, transformer 모델 설계후 optuna를 사용해 최적하이파라미터 탐색후 학습후 예측
-- automl통한 모델 학습후 예측
+- Kfold, random split 두 가지 교차검증 사용
+- MLP, transformer 딥러닝 모델에 optuna를 사용해 하이파라미터 최적화한 후, 학습 및 예측
+- automl통한 모델 학습 및 예측
 - MLP + automl 결과 앙상블 후 제출
   
 # 결과
