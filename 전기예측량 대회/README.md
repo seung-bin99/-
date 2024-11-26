@@ -21,6 +21,9 @@
 - autogluon으로 모델 생성
 - xgboost + autogluon 앙상블 후 제출
 
+# 모델 학습 과정(XGBoostRegressor)
+![전력소비량 대회 시각화사진](https://github.com/user-attachments/assets/e5980def-1b80-48e2-abdf-0c6df0c3f317)
+
 # 결과
 - 207th / 1233team
 ![image](https://github.com/seung-bin99/project/assets/153293674/86ada782-db85-42bc-a1cb-efb2027aee85)
