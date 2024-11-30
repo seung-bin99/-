@@ -16,7 +16,7 @@
 - IterativeImputer로 결측치 대체
 - Target Encoding
 - RMSLE 평가식 정의
-- Kfold 교차검증 사용
+- Kfold 교차검증 사용 5개 폴드(4개 폴드 train 데이터 / 1개 폴드 valid 데이터
 - MLP, transformer 딥러닝 모델에 optuna를 사용해 하이파라미터 최적화한 후, 학습 및 예측
 - automl통한 모델 학습 및 예측
 - MLP + automl 결과 앙상블 후 제출
