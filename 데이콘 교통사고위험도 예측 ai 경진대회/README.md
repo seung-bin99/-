@@ -12,15 +12,32 @@
 - 본 대회는 모든 작업을 혼자서 수행
 
 # Process
-- 도시, 구, 동에 따라 각 데이터 결합
-- IterativeImputer로 결측치 대체
-- Target Encoding
-- RMSLE 평가식 정의
-- Kfold 교차검증 사용 5개 폴드(4개 폴드 train 데이터 / 1개 폴드 valid 데이터
-- MLP, transformer 딥러닝 모델에 optuna를 사용해 하이파라미터 최적화한 후, 학습 및 예측
-- automl통한 모델 학습 및 예측
-- MLP + automl 결과 앙상블 후 제출
-  
+- 데이콘의 대구광역시 교통사고 시공간 데이터를 활용해 사고위험도를 예측하는 딥러닝 회귀 모델을 개발함
+- Mice 기법을 이용해 결측치 처리하고, Object 타입 변수에 타겟 인코딩 적용하는 등 전처리
+- 두 가지의 교차검증 방법과 딥러닝 모델을 사용해 학습 후, 예측하고자 함
+
+# 상세 진행과정
+1) 교통사고 시공간 데이터에 대한 전처리
+> - 사고 발생지점에 대한 도시, 구, 동 변수를 기준으로 데이터 결합
+> - IterativeImputer로 결측치 처리
+> - Object 타입 변수에 Target Encoding 적용
+2) K-Fold 교차검증 방법 사용 
+3) MLP 모델 구현
+> - 레이어 4개, 드롭아웃 3개, 활성화함수 4개, 정규화 4개로 모델 구현
+> - Mish 활성화 함수 : 비선형성 파악 및 보완가능
+> - RMSLE : 대회 평가 지표
+> - Adamw 옵티마이저 : 기존 Adam에 가중치 감소시켜 일반화 성능 증가
+4) 트랜스포머 모델 구현
+> - 피처 중요도 계산 : MultiheadFeatureAttention 사용해 계산
+> - 인코딩 : attention을 적용한 피처를 트랜스포머 인코더로 전달
+> - 디코딩 : 출력 전, ReLU 활성화 함수로 비선형성 추가
+5) Optuna로 두 모델의 하이퍼파라미터 최적화 후, 학습 및 예측
+6) AutoML 통한 모델 학습 및 예측 후, MLP 모델과 앙상블
+> - RMSLE로 성능 평가 시, MLP > AutoML > 트랜스포머
+
+# 요약 아키텍처
+![image](https://github.com/user-attachments/assets/f5e1ee6a-339c-4b0a-b01b-bcaeed9525e0)
+
 # 결과
 - 28th / 942team
 ![image](https://github.com/user-attachments/assets/dfa4d138-8609-4e11-9e2f-05aaf1f59501)
