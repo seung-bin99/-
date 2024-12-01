@@ -11,9 +11,12 @@
 # 기여도
 - 본 대회는 모든 작업을 혼자서 수행
 
+# 요약 아키텍처
+![image](https://github.com/user-attachments/assets/f5e1ee6a-339c-4b0a-b01b-bcaeed9525e0)
+
 # Process
 - 데이콘의 대구광역시 교통사고 시공간 데이터를 활용해 사고위험도를 예측하는 딥러닝 회귀 모델을 개발함
-- Mice 기법을 이용해 결측치 처리하고, Object 타입 변수에 타겟 인코딩 적용하는 등 전처리
+- 결측치 처리하고, Object 타입 변수에 타겟 인코딩 적용하는 등 전처리
 - 두 가지의 교차검증 방법과 딥러닝 모델을 사용해 학습 후, 예측하고자 함
 
 # 상세 진행과정
@@ -34,9 +37,6 @@
 5) Optuna로 두 모델의 하이퍼파라미터 최적화 후, 학습 및 예측
 6) AutoML 통한 모델 학습 및 예측 후, MLP 모델과 앙상블
 > - RMSLE로 성능 평가 시, MLP > AutoML > 트랜스포머
-
-# 요약 아키텍처
-![image](https://github.com/user-attachments/assets/f5e1ee6a-339c-4b0a-b01b-bcaeed9525e0)
 
 # 결과
 - 28th / 942team
