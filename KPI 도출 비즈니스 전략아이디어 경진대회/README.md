@@ -15,7 +15,7 @@
 - 임한나 : 데이터 전처리 / 시간대 별 제품 카테고리 AOV(평균 주문 가치) POWER BI 보고서 작성
 
 # 요약 아키텍처
-![image](https://github.com/user-attachments/assets/35a8cee0-3efe-405b-80aa-bd2a3a698ad8)
+![image](https://github.com/user-attachments/assets/743b732c-7675-4163-85ba-f0b3a232c987)
 
 # Process
 - 브라질 커머스 기업의 제품 구매 / 제품 만족도 / 배송 시간 / 배송 위치 데이터 전처리 및 고객 ID 기준으로 결합
